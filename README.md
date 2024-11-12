@@ -1,5 +1,5 @@
 # Case-Study-AquaFizz-Beverage-Startup-Excel
-Excel Project
+## Excel Project
 
 ![image alt](https://github.com/prajwals22/Case-Study-AquaFizz-Beverage-Startup-Excel/blob/2545b38ee151e0f19863c17bf6b6d484c9a10c5c/Dashboard.jpg?raw=true)
 
